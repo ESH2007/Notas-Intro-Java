@@ -2,7 +2,7 @@
 
 ## Introduction to Objects: 
 
-> An *`object`* is a variable of a data type taht is user defined.
+> An *`object`* is a variable of a data type that is user defined.
 * An object has both *`state`* and *`behavior`*.
 ### Example 1: 
 #### This rectangle certain attributes such as height and width
