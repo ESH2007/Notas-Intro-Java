@@ -10,7 +10,7 @@
 
 > The *`state`* is data about an object, therefore the state of this rectangle is its width of 20 and height of 8
 
-> The *`behabior`* of and object is teh actions that can be performed on the object, so one behavior of this rectancle can be calculate its area - `which is 160`.
+> The *`behavior`* of and object is the actions that can be performed on the object, so one behavior of this rectancle can be calculate its area - `which is 160`.
 
 ------------------
 ### Objects are created from *`classes`*
